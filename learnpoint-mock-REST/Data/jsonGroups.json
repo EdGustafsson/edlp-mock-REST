@@ -1,0 +1,4133 @@
+{
+    "ApiVersion": "2.6.20211216135324",
+    "Data": {
+        "Groups": [
+            {
+                "Id": 1,
+                "Name": "Yh-skolan",
+                "Code": "Yh-skolan",
+                "LifespanFrom": null,
+                "LifespanUntil": null,
+                "Category": {
+                    "Code": "School",
+                    "Name": "Skola"
+                },
+                "StaffGroupMembers": [
+                    {
+                        "StaffMember": {
+                            "Id": 21
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 27
+                            }
+                        ]
+                    },
+                    {
+                        "StaffMember": {
+                            "Id": 22
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 27
+                            }
+                        ]
+                    },
+                    {
+                        "StaffMember": {
+                            "Id": 75
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 27
+                            }
+                        ]
+                    },
+                    {
+                        "StaffMember": {
+                            "Id": 82
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 27
+                            }
+                        ]
+                    },
+                    {
+                        "StaffMember": {
+                            "Id": 83
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 27
+                            }
+                        ]
+                    },
+                    {
+                        "StaffMember": {
+                            "Id": 96
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 27
+                            }
+                        ]
+                    },
+                    {
+                        "StaffMember": {
+                            "Id": 109
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 27
+                            }
+                        ]
+                    },
+                    {
+                        "StaffMember": {
+                            "Id": 127
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 27
+                            }
+                        ]
+                    },
+                    {
+                        "StaffMember": {
+                            "Id": 131
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 27
+                            }
+                        ]
+                    },
+                    {
+                        "StaffMember": {
+                            "Id": 143
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 27
+                            }
+                        ]
+                    },
+                    {
+                        "StaffMember": {
+                            "Id": 152
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 27
+                            }
+                        ]
+                    }
+                ],
+                "StudentGroupMembers": [
+                    {
+                        "Student": {
+                            "Id": 3
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 5
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 6
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 7
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 8
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 9
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 10
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 11
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 12
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 13
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 14
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 15
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 16
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 18
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 19
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 20
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 23
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 24
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 25
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 26
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 27
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 28
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 29
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 30
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 31
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 33
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 34
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 35
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 36
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 37
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 38
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 39
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 40
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 41
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 42
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 43
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 44
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 45
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 46
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 47
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 48
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 49
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 50
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 51
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 52
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 53
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 54
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 55
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 56
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 57
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 58
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 59
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 60
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 61
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 62
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 63
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 64
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 65
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 66
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 67
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 69
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 70
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 71
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 72
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 73
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 74
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 76
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 77
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 78
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 79
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 80
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 81
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 85
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 86
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 87
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 88
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 89
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 90
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 91
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 92
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 93
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 94
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 95
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 97
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 98
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 99
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 100
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 101
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 102
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 104
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 105
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 106
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 107
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 108
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 113
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 114
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 115
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 116
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 118
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 119
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 122
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 123
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 124
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 126
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 133
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 134
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 135
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 136
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 137
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 155
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 156
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 157
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 16
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": 167,
+                "Name": "Kurs och Konferens",
+                "Code": "Konfgrp",
+                "LifespanFrom": "2016-03-07T23:00:00Z",
+                "LifespanUntil": null,
+                "Category": {
+                    "Code": null,
+                    "Name": "Konferensgrupp"
+                },
+                "ParentGroup": {
+                    "Group": {
+                        "Id": 1
+                    }
+                },
+                "StaffGroupMembers": [],
+                "StudentGroupMembers": []
+            },
+            {
+                "Id": 317,
+                "Name": "Lärande i arbete, LIA 1",
+                "Code": "EK17_LIA1",
+                "LifespanFrom": "2021-10-08T22:00:00Z",
+                "LifespanUntil": "2022-10-07T21:59:59.997Z",
+                "Category": {
+                    "Code": "CourseInstance",
+                    "Name": "Kurs"
+                },
+                "ParentGroup": {
+                    "Group": {
+                        "Id": 259
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 1
+                        }
+                    }
+                },
+                "CourseDefinition": {
+                    "Id": 129
+                },
+                "StaffGroupMembers": [
+                    {
+                        "StaffMember": {
+                            "Id": 22
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            },
+                            {
+                                "Id": 33
+                            },
+                            {
+                                "Id": 40
+                            }
+                        ],
+                        "IsGroupManager": true
+                    },
+                    {
+                        "StaffMember": {
+                            "Id": 75
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            },
+                            {
+                                "Id": 33
+                            },
+                            {
+                                "Id": 40
+                            }
+                        ],
+                        "IsGroupManager": true
+                    }
+                ],
+                "StudentGroupMembers": [
+                    {
+                        "Student": {
+                            "Id": 3
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 20
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 4
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 20
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 5
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 20
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 6
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 20
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 7
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 20
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 8
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 20
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 9
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 20
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 10
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 20
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 11
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 20
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 12
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 20
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 13
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 20
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 14
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 20
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 15
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 20
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 16
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 20
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": 318,
+                "Name": "EK17_LIA1",
+                "Code": "EK17_LIA1",
+                "LifespanFrom": "2021-10-08T22:00:00Z",
+                "LifespanUntil": "2022-10-07T21:59:59.997Z",
+                "Category": {
+                    "Code": "DefaultCourseInstanceSchedulingGroup",
+                    "Name": "Schemagrupp för kurstillfälle"
+                },
+                "ParentGroup": {
+                    "Group": {
+                        "Id": 317
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 259
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                "CourseDefinition": {
+                    "Id": 129
+                },
+                "StaffGroupMembers": [],
+                "StudentGroupMembers": []
+            }
+        ],
+        "ParentGroups": [
+            {
+                "Id": 259,
+                "Name": "Ekonomiassistent 2017",
+                "Code": "EK17",
+                "LifespanFrom": "2017-08-16T22:00:00Z",
+                "LifespanUntil": "2019-06-15T21:59:59.997Z",
+                "Category": {
+                    "Code": "EducationInstance",
+                    "Name": "Klass"
+                },
+                "ParentGroup": {
+                    "Group": {
+                        "Id": 1
+                    }
+                },
+                "StaffGroupMembers": [
+                    {
+                        "StaffMember": {
+                            "Id": 22
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 2
+                            },
+                            {
+                                "Id": 25
+                            },
+                            {
+                                "Id": 26
+                            },
+                            {
+                                "Id": 39
+                            }
+                        ],
+                        "IsGroupManager": true
+                    },
+                    {
+                        "StaffMember": {
+                            "Id": 96
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 2
+                            },
+                            {
+                                "Id": 25
+                            }
+                        ],
+                        "IsGroupManager": false
+                    }
+                ],
+                "StudentGroupMembers": [
+                    {
+                        "Student": {
+                            "Id": 99
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 2
+                            },
+                            {
+                                "Id": 14
+                            }
+                        ]
+                    },
+                    {
+                        "Student": {
+                            "Id": 105
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 2
+                            },
+                            {
+                                "Id": 14
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "ReferenceData": {
+            "StaffMembers": [
+                {
+                    "Id": 21,
+                    "NationalRegistrationNumber": "19XXXXXX-XX21",
+                    "Signature": "PSN",
+                    "FirstName": "Pelle",
+                    "LastName": "Persson",
+                    "Username": "yhskolan.p.persson",
+                    "Email": "daniel.gidlof@viaecole.se",
+                    "Email2": null,
+                    "MobilePhone": "073-XXXXXX",
+                    "MayExposeMobilePhoneToStudents": true
+                },
+                {
+                    "Id": 22,
+                    "NationalRegistrationNumber": null,
+                    "Signature": "HHA",
+                    "FirstName": "Hasse",
+                    "LastName": "Hansson",
+                    "Username": "yhskolan.h.hansson",
+                    "Email": "mickel.west@gmail.com",
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "MayExposeMobilePhoneToStudents": true
+                },
+                {
+                    "Id": 75,
+                    "NationalRegistrationNumber": "19560312-6979",
+                    "Signature": "GBu",
+                    "FirstName": "Göran",
+                    "LastName": "Bucht",
+                    "Username": "yhskolan.goran.bucht",
+                    "Email": "goran.bucht@yh-skolan.se",
+                    "Email2": null,
+                    "MobilePhone": "073-679213434",
+                    "MayExposeMobilePhoneToStudents": true
+                },
+                {
+                    "Id": 82,
+                    "NationalRegistrationNumber": "19750623-8752",
+                    "Signature": "TGk",
+                    "FirstName": "Torbjörn",
+                    "LastName": "Grönkvist",
+                    "Username": "yhskolan.t.gronkvist",
+                    "Email": "jonas.bergvall@viaecole.se",
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "MayExposeMobilePhoneToStudents": true
+                },
+                {
+                    "Id": 83,
+                    "NationalRegistrationNumber": "19730523-2386",
+                    "Signature": "KTa",
+                    "FirstName": "Kerstin",
+                    "LastName": "Tallberg",
+                    "Username": "yhskolan.k.tallberg",
+                    "Email": "kerstin.tallberg@yhskolan.se",
+                    "Email2": null,
+                    "MobilePhone": "073-6752345",
+                    "MayExposeMobilePhoneToStudents": false
+                },
+                {
+                    "Id": 96,
+                    "NationalRegistrationNumber": null,
+                    "Signature": "GVa",
+                    "FirstName": "Gisela",
+                    "LastName": "Vantoft",
+                    "Username": "yhskolan.g.vantoft",
+                    "Email": "gisela.vantoft@yhskolan.se",
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "MayExposeMobilePhoneToStudents": true
+                },
+                {
+                    "Id": 109,
+                    "NationalRegistrationNumber": null,
+                    "Signature": "JJA",
+                    "FirstName": "Jan",
+                    "LastName": "Jansson",
+                    "Username": "yhskolan.jan.jansson",
+                    "Email": "martin.vehmas@viaecole.se",
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "MayExposeMobilePhoneToStudents": true
+                },
+                {
+                    "Id": 127,
+                    "NationalRegistrationNumber": null,
+                    "Signature": "TTE",
+                    "FirstName": "Ture",
+                    "LastName": "Testman",
+                    "Username": "yhskolan.t.testman1",
+                    "Email": "martin.vehmasviaecole.se",
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "MayExposeMobilePhoneToStudents": true
+                },
+                {
+                    "Id": 131,
+                    "NationalRegistrationNumber": null,
+                    "Signature": "JBe",
+                    "FirstName": "Jonas",
+                    "LastName": "Bergvall",
+                    "Username": "yhskolan.j.bergvall",
+                    "Email": "jonas.bergvall@viaecole.se",
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "MayExposeMobilePhoneToStudents": true
+                },
+                {
+                    "Id": 143,
+                    "NationalRegistrationNumber": null,
+                    "Signature": "BJo",
+                    "FirstName": "Benny",
+                    "LastName": "Johansson",
+                    "Username": "yhskolan.b.johansson",
+                    "Email": "BJ@yhskolan.se",
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "MayExposeMobilePhoneToStudents": true
+                },
+                {
+                    "Id": 152,
+                    "NationalRegistrationNumber": null,
+                    "Signature": "ATE",
+                    "FirstName": "Admin",
+                    "LastName": "Testmästare",
+                    "Username": "yhskolan.a.testmasta",
+                    "Email": "daniel2@gidlof.eu",
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "MayExposeMobilePhoneToStudents": true
+                }
+            ],
+            "Students": [
+                {
+                    "Id": 3,
+                    "NationalRegistrationNumber": "19790201-0101",
+                    "FirstName": "Maria",
+                    "LastName": "Axelsson",
+                    "Username": "yhskolan.m.axelsson",
+                    "Email": "testapplicant37@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": "073-3212555",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Gatan 7",
+                        "City": "Stockholm",
+                        "Zip": "123 45"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 4,
+                    "NationalRegistrationNumber": "19890102-3002",
+                    "FirstName": "Karin",
+                    "LastName": "Berg",
+                    "Username": "yhskolan.karin.berg",
+                    "Email": "testapplicant50@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": "073212555",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Vägen 23",
+                        "City": "Stockholm",
+                        "Zip": "12247"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 5,
+                    "NationalRegistrationNumber": "19850203-0103",
+                    "FirstName": "Stig",
+                    "LastName": "Berg",
+                    "Username": "yhskolan.stig.berg",
+                    "Email": "testapplicant21@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": "073-555153",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Gatan 73",
+                        "City": "Utbildningsbyn",
+                        "Zip": "433 67"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 6,
+                    "NationalRegistrationNumber": "19861114-2104",
+                    "FirstName": "Karl",
+                    "LastName": "Berglund",
+                    "Username": "yhskolan.k.berglund",
+                    "Email": "testapplicant19@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": "073215551",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Uppförsbacken 4",
+                        "City": "Rydebäck",
+                        "Zip": "123 45"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 7,
+                    "NationalRegistrationNumber": "19890101-4505",
+                    "FirstName": "Marie",
+                    "LastName": "Danielsson",
+                    "Username": "yhskolan.m.danielsso",
+                    "Email": "testapplicant42@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": "073-665543",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Gränden 447",
+                        "City": "Stockholm",
+                        "Zip": "413 24"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 8,
+                    "NationalRegistrationNumber": "19890106-4406",
+                    "FirstName": "Nils",
+                    "LastName": "Forsberg",
+                    "Username": "yhskolan.n.forsberg",
+                    "Email": "testapplicant47@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": "072123445",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Slingan 5",
+                        "City": "GÖTEBORG",
+                        "Zip": "123 45"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 9,
+                    "NationalRegistrationNumber": "19890422-1407",
+                    "FirstName": "Christina",
+                    "LastName": "Holm",
+                    "Username": "yhskolan.c.holm",
+                    "Email": "testapplicant22@test.yh-antagning.se",
+                    "Email2": "martin@vehmas.se",
+                    "MobilePhone": "073-555333",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Svängen 17",
+                        "City": "Stockholm",
+                        "Zip": "19279"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 10,
+                    "NationalRegistrationNumber": "19891113-6708",
+                    "FirstName": "Arne",
+                    "LastName": "Johansson",
+                    "Username": "yhskolan.a.johansson",
+                    "Email": "testapplicant17@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": "073234565",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Stigen 55",
+                        "City": "Stockholm",
+                        "Zip": "123 45"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 11,
+                    "NationalRegistrationNumber": "19901113-7709",
+                    "FirstName": "Johan",
+                    "LastName": "Johansson",
+                    "Username": "yhskolan.j.johansson",
+                    "Email": "testapplicant20@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": "072123445",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Bådegatan 3",
+                        "City": "Stockholm",
+                        "Zip": "73333"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 12,
+                    "NationalRegistrationNumber": "19870620-2210",
+                    "FirstName": "Jan",
+                    "LastName": "Johnsson",
+                    "Username": "yhskolan.j.johnsson",
+                    "Email": "testapplicant40@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": "073-555333",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Nilsgränd 6",
+                        "City": "Helsingborg",
+                        "Zip": "17543"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 13,
+                    "NationalRegistrationNumber": "19880309-4111",
+                    "FirstName": "Lennart",
+                    "LastName": "Johnsson",
+                    "Username": "yhskolan.l.johnsson",
+                    "Email": "testapplicant49@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": "078152444",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Sturegatan 7",
+                        "City": "Stockholm",
+                        "Zip": "123 45"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 14,
+                    "NationalRegistrationNumber": "19690329-6012",
+                    "FirstName": "Kristina",
+                    "LastName": "Larsson",
+                    "Username": "yhskolan.k.larsson",
+                    "Email": "testapplicant4@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": "0702154448",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Gatan 7",
+                        "City": "Enskede",
+                        "Zip": "413 24"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 15,
+                    "NationalRegistrationNumber": "19580509-6313",
+                    "FirstName": "Maria",
+                    "LastName": "Lindqvist",
+                    "Username": "yhskolan.m.lindqvist",
+                    "Email": "testapplicant43@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": "0702154448",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Grisgränd 47",
+                        "City": "Stockholm",
+                        "Zip": "144 51"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 16,
+                    "NationalRegistrationNumber": "19910527-8414",
+                    "FirstName": "Ingrid",
+                    "LastName": "Lindström",
+                    "Username": "yhskolan.i.lindstrom",
+                    "Email": "testapplicant5@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": "070-6655441",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Sammangången 3",
+                        "City": "Örnsköldsvik",
+                        "Zip": "123 45"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 18,
+                    "NationalRegistrationNumber": "19950210-0816",
+                    "FirstName": "Elsa",
+                    "LastName": "Lundqvist",
+                    "Username": "yhskolan.e.lundqvist",
+                    "Email": "testapplicant39@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": "0701114512",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Storgatan 22",
+                        "City": "Stockholm",
+                        "Zip": "144 51"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 19,
+                    "NationalRegistrationNumber": "19650518-8817",
+                    "FirstName": "Linnéa",
+                    "LastName": "Magnusson",
+                    "Username": "yhskolan.l.magnusson",
+                    "Email": "testapplicant28@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": "073-555153",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Sunnangatan 2b",
+                        "City": "malmö",
+                        "Zip": "433 67"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 20,
+                    "NationalRegistrationNumber": "19891224-3718",
+                    "FirstName": "Stig",
+                    "LastName": "Olsson",
+                    "Username": "yhskolan.stig.olsson",
+                    "Email": "testapplicant16@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": "0702154448",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Frysgränd 1",
+                        "City": "Stockholm",
+                        "Zip": "123 45"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 23,
+                    "NationalRegistrationNumber": "19890101-4566",
+                    "FirstName": "Clara",
+                    "LastName": "Jernström",
+                    "Username": "yhskolan.c.jernstrom",
+                    "Email": null,
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Ekvägen 5",
+                        "City": "Skolstaden",
+                        "Zip": "27564"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 24,
+                    "NationalRegistrationNumber": "19890106-4462",
+                    "FirstName": "Kian",
+                    "LastName": "Härdner",
+                    "Username": "yhskolan.k.hardner",
+                    "Email": null,
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Domarstigen 2",
+                        "City": "Utbildningsbyn",
+                        "Zip": "19566"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 25,
+                    "NationalRegistrationNumber": "19890406-4469",
+                    "FirstName": "Frida",
+                    "LastName": "Staudinger",
+                    "Username": "yhskolan.f.staudinge",
+                    "Email": null,
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Lilla Hundens Gränd 29A",
+                        "City": "Skolstaden",
+                        "Zip": "34677"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 26,
+                    "NationalRegistrationNumber": "19890422-1465",
+                    "FirstName": "Aldina",
+                    "LastName": "Tuncer",
+                    "Username": "yhskolan.a.tuncer",
+                    "Email": null,
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Fallskärmsvägen 29",
+                        "City": "Skolstaden",
+                        "Zip": "54569"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 27,
+                    "NationalRegistrationNumber": "19890613-1464",
+                    "FirstName": "Ellen",
+                    "LastName": "Kågström",
+                    "Username": "yhskolan.e.kagstrom",
+                    "Email": null,
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Tegelhagsvägen 31",
+                        "City": "Skolstaden",
+                        "Zip": "23569"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 28,
+                    "NationalRegistrationNumber": "19891023-6754",
+                    "FirstName": "Josefin",
+                    "LastName": "Sarenfält",
+                    "Username": "yhskolan.j.sarenfalt",
+                    "Email": null,
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Sparvgränd 1",
+                        "City": "Skolstaden",
+                        "Zip": "32323"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 29,
+                    "NationalRegistrationNumber": "19891113-6771",
+                    "FirstName": "Gustav",
+                    "LastName": "Granström",
+                    "Username": "yhskolan.g.granstrom",
+                    "Email": null,
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Vårdkasevägen 6",
+                        "City": "Utbildningsbyn",
+                        "Zip": "73333"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 30,
+                    "NationalRegistrationNumber": "19901113-7776",
+                    "FirstName": "Adrian",
+                    "LastName": "Tegenkvist",
+                    "Username": "yhskolan.a.tegenkvis",
+                    "Email": null,
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Castorvägen 39",
+                        "City": "Utbildningsbyn",
+                        "Zip": "17569"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 31,
+                    "NationalRegistrationNumber": "19900223-7239",
+                    "FirstName": "Roman",
+                    "LastName": "Lindquist",
+                    "Username": "yhskolan.r.lindquist",
+                    "Email": null,
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Flygarvägen 99",
+                        "City": "Utbildningsbyn",
+                        "Zip": "17565"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 33,
+                    "NationalRegistrationNumber": "19870620-2234",
+                    "FirstName": "Tobias",
+                    "LastName": "Ringbom",
+                    "Username": "yhskolan.t.ringbom",
+                    "Email": null,
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Andebodavägen 231",
+                        "City": "Utbildningsbyn",
+                        "Zip": "17543"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 34,
+                    "NationalRegistrationNumber": "19880309-4161",
+                    "FirstName": "Matmy",
+                    "LastName": "Briusson",
+                    "Username": "yhskolan.m.briusson",
+                    "Email": "testapplicant1@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Norra Vägen 21 A",
+                        "City": "Rydebäck",
+                        "Zip": "25733"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 35,
+                    "NationalRegistrationNumber": "19690329-6066",
+                    "FirstName": "Sima",
+                    "LastName": "casandqvist Rytkönen",
+                    "Username": "yhskolan.s.casandqvi",
+                    "Email": "testapplicant20@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Violgatan7G",
+                        "City": "Piteå",
+                        "Zip": "94151"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 36,
+                    "NationalRegistrationNumber": "19580509-6384",
+                    "FirstName": "Rebcha",
+                    "LastName": "echsi",
+                    "Username": "yhskolan.r.echsi",
+                    "Email": "testapplicant24@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Saleby Lilla Galstad",
+                        "City": "GÖTEBORG",
+                        "Zip": "415 21"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 37,
+                    "NationalRegistrationNumber": "19910527-8445",
+                    "FirstName": "Peririsaq",
+                    "LastName": "edvgelund",
+                    "Username": "yhskolan.p.edvgelund",
+                    "Email": "testapplicant9@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Vårmånadsgatan 3 B Lgh 1201",
+                        "City": "Stockholm",
+                        "Zip": "11533"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 38,
+                    "NationalRegistrationNumber": "19910711-5546",
+                    "FirstName": "Angia",
+                    "LastName": "Ekserlund",
+                    "Username": "yhskolan.a.ekserlund",
+                    "Email": "testapplicant40@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Aromavägen 34 D",
+                        "City": "Stockholm",
+                        "Zip": "11218"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 39,
+                    "NationalRegistrationNumber": "19900803-2402",
+                    "FirstName": "Camias",
+                    "LastName": "Fallaku",
+                    "Username": "yhskolan.c.fallaku",
+                    "Email": "testapplicant6@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Marktegelvägen 33",
+                        "City": "Göteborg",
+                        "Zip": "413 24"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 40,
+                    "NationalRegistrationNumber": "19790319-5985",
+                    "FirstName": "Matm",
+                    "LastName": "Frieman",
+                    "Username": "yhskolan.m.frieman",
+                    "Email": "testapplicant1@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "laxgatan 1a",
+                        "City": "Sävedalen",
+                        "Zip": "433 67"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 41,
+                    "NationalRegistrationNumber": "19690405-4365",
+                    "FirstName": "Sofilla",
+                    "LastName": "Friman",
+                    "Username": "yhskolan.s.friman",
+                    "Email": "testapplicant8@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Garvarvägen 25",
+                        "City": "Helsingborg",
+                        "Zip": "25437"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 42,
+                    "NationalRegistrationNumber": "19950210-0804",
+                    "FirstName": "Nelestine",
+                    "LastName": "Gafersson",
+                    "Username": "yhskolan.n.gafersson",
+                    "Email": "testapplicant39@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Nya torg 6",
+                        "City": "Enskede",
+                        "Zip": "12247"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 43,
+                    "NationalRegistrationNumber": "19650518-8802",
+                    "FirstName": "Lulat",
+                    "LastName": "hani",
+                    "Username": "yhskolan.lulat.hani",
+                    "Email": "testapplicant36@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Skinnaråsvägen 11",
+                        "City": "Örnsköldsvik",
+                        "Zip": "89130"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 44,
+                    "NationalRegistrationNumber": "19891224-3782",
+                    "FirstName": "Balper",
+                    "LastName": "Husdeby",
+                    "Username": "yhskolan.b.husdeby",
+                    "Email": "testapplicant21@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "kvartsekelsgatan 7 A",
+                        "City": "Sollentuna",
+                        "Zip": "19279"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 45,
+                    "NationalRegistrationNumber": "19900411-0202",
+                    "FirstName": "Oscanna",
+                    "LastName": "Högwand",
+                    "Username": "yhskolan.o.hogwand",
+                    "Email": "testapplicant1@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Villagatan 13",
+                        "City": "malmö",
+                        "Zip": "21143"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 46,
+                    "NationalRegistrationNumber": "19880709-3409",
+                    "FirstName": "Jonbelle",
+                    "LastName": "Joh",
+                    "Username": "yhskolan.j.joh",
+                    "Email": "testapplicant17@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Rise 470",
+                        "City": "MOTALA",
+                        "Zip": "591 50"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 47,
+                    "NationalRegistrationNumber": "19960713-9707",
+                    "FirstName": "Sarsica",
+                    "LastName": "Johe",
+                    "Username": "yhskolan.s.johe",
+                    "Email": "testapplicant36@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Hasselbergsvägen 16",
+                        "City": "Helsingborg",
+                        "Zip": "256 66"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 48,
+                    "NationalRegistrationNumber": "19860613-3786",
+                    "FirstName": "amahla",
+                    "LastName": "Jovan",
+                    "Username": "yhskolan.a.jovan",
+                    "Email": "testapplicant34@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Esplanaden 8A",
+                        "City": "Gävle",
+                        "Zip": "80257"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 49,
+                    "NationalRegistrationNumber": "19891120-6327",
+                    "FirstName": "Masstoffer",
+                    "LastName": "Karafik",
+                    "Username": "yhskolan.m.karafik",
+                    "Email": "testapplicant42@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Vasaplatsen 11B",
+                        "City": "rönninge",
+                        "Zip": "144 51"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 50,
+                    "NationalRegistrationNumber": "19800804-4409",
+                    "FirstName": "Julob",
+                    "LastName": "krati",
+                    "Username": "yhskolan.julob.krati",
+                    "Email": "testapplicant10@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Länsmansvägen 20",
+                        "City": "torpshammar",
+                        "Zip": "84013"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 51,
+                    "NationalRegistrationNumber": "19851217-3124",
+                    "FirstName": "Sarette",
+                    "LastName": "Larman Amin",
+                    "Username": "yhskolan.s.larman.am",
+                    "Email": "testapplicant44@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Urbergsterrassen 40",
+                        "City": "Eskilstuna",
+                        "Zip": "635 06"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 52,
+                    "NationalRegistrationNumber": "19660902-1768",
+                    "FirstName": "Afssabeth",
+                    "LastName": "Larsheden",
+                    "Username": "yhskolan.a.larsheden",
+                    "Email": "testapplicant24@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Köpingsvägen 57b",
+                        "City": "Eskilstuna",
+                        "Zip": "63513"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 53,
+                    "NationalRegistrationNumber": "19900730-9348",
+                    "FirstName": "Naoie",
+                    "LastName": "Linrberg",
+                    "Username": "yhskolan.n.linrberg",
+                    "Email": "testapplicant34@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Järnvägsgatan 8",
+                        "City": "solna",
+                        "Zip": "17066"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 54,
+                    "NationalRegistrationNumber": "19900211-4685",
+                    "FirstName": "Aymon",
+                    "LastName": "Ljudinaj",
+                    "Username": "yhskolan.a.ljudinaj",
+                    "Email": "testapplicant36@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Belfragegatan 42b",
+                        "City": "Vällingby",
+                        "Zip": "16256"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 55,
+                    "NationalRegistrationNumber": "19910119-8126",
+                    "FirstName": "Nindra",
+                    "LastName": "Malmusson",
+                    "Username": "yhskolan.n.malmusson",
+                    "Email": "testapplicant20@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Nävervägen 22",
+                        "City": "Alingsås",
+                        "Zip": "44195"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 56,
+                    "NationalRegistrationNumber": "19640707-0488",
+                    "FirstName": "kentina",
+                    "LastName": "McItic",
+                    "Username": "yhskolan.k.mcitic",
+                    "Email": "testapplicant11@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Olofsborgsgatan 2 E Lgh 1101",
+                        "City": "KISTA",
+                        "Zip": "16433"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 57,
+                    "NationalRegistrationNumber": "19870924-8465",
+                    "FirstName": "johreas",
+                    "LastName": "nager",
+                    "Username": "yhskolan.j.nager",
+                    "Email": "testapplicant48@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Magisetervägen 5",
+                        "City": "Vendelsö",
+                        "Zip": "13659"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 58,
+                    "NationalRegistrationNumber": "19650222-4121",
+                    "FirstName": "Eriitha",
+                    "LastName": "OLSsson",
+                    "Username": "yhskolan.e.olssson",
+                    "Email": "testapplicant8@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Toftvägen 10 Logarn",
+                        "City": "Göteborg",
+                        "Zip": "41724"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 59,
+                    "NationalRegistrationNumber": "19800527-7861",
+                    "FirstName": "Davina",
+                    "LastName": "Pihst",
+                    "Username": "yhskolan.d.pihst",
+                    "Email": "testapplicant6@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Nedergårdsgatan 9",
+                        "City": "Karlholm",
+                        "Zip": "81940"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 60,
+                    "NationalRegistrationNumber": "19920415-4661",
+                    "FirstName": "camim",
+                    "LastName": "Rönn",
+                    "Username": "yhskolan.camim.ronn",
+                    "Email": "testapplicant41@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Rödklövervägen 13",
+                        "City": "Sösdala",
+                        "Zip": "280 10"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 61,
+                    "NationalRegistrationNumber": "19930316-6004",
+                    "FirstName": "Almh",
+                    "LastName": "Sanez-ortega",
+                    "Username": "yhskolan.a.sanez-ort",
+                    "Email": "testapplicant47@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Remslegatan 21 A",
+                        "City": "Göteborg",
+                        "Zip": "41509"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 62,
+                    "NationalRegistrationNumber": "19900921-4827",
+                    "FirstName": "Ponie",
+                    "LastName": "Sanrkman",
+                    "Username": "yhskolan.p.sanrkman",
+                    "Email": "testapplicant23@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Gillersvägen 6L",
+                        "City": "Halmstad",
+                        "Zip": "30296"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 63,
+                    "NationalRegistrationNumber": "19680918-9225",
+                    "FirstName": "Emaia",
+                    "LastName": "Spalsson",
+                    "Username": "yhskolan.e.spalsson",
+                    "Email": "testapplicant8@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Mattiasväg 48",
+                        "City": "Malmö",
+                        "Zip": "21218"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 64,
+                    "NationalRegistrationNumber": "19900503-9764",
+                    "FirstName": "Hanhael",
+                    "LastName": "Strmoudi",
+                    "Username": "yhskolan.h.strmoudi",
+                    "Email": "testapplicant9@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Huggle 130",
+                        "City": "Lindesberg",
+                        "Zip": "71135"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 65,
+                    "NationalRegistrationNumber": "19940731-0185",
+                    "FirstName": "Tobtina",
+                    "LastName": "Svelius",
+                    "Username": "yhskolan.t.svelius",
+                    "Email": "testapplicant22@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Timjansgatan",
+                        "City": "Kristianstad",
+                        "Zip": "29135"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 66,
+                    "NationalRegistrationNumber": "19750513-5181",
+                    "FirstName": "Bags",
+                    "LastName": "Zemlinan",
+                    "Username": "yhskolan.b.zemlinan",
+                    "Email": "testapplicant48@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Skördevägen 40",
+                        "City": "Dandryd",
+                        "Zip": "18231"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 67,
+                    "NationalRegistrationNumber": "19890410-6823",
+                    "FirstName": "Ilotor",
+                    "LastName": "Zumur Haji Shirazi",
+                    "Username": "yhskolan.i.zumur.haj",
+                    "Email": "testapplicant18@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Arkitektgatan 8",
+                        "City": "spånga",
+                        "Zip": "163 65"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 69,
+                    "NationalRegistrationNumber": "19780312-0935",
+                    "FirstName": "Erik",
+                    "LastName": "Johansson",
+                    "Username": "yhskolan.e.johansson",
+                    "Email": "erik.johansson@epost.se",
+                    "Email2": null,
+                    "MobilePhone": "073-7698467",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Äppelstigen 32",
+                        "City": "Kälvesta",
+                        "Zip": "173 45"
+                    },
+                    "HomePhone": "073-6725681"
+                },
+                {
+                    "Id": 70,
+                    "NationalRegistrationNumber": "19871123-3463",
+                    "FirstName": "Elvira",
+                    "LastName": "Sandgren",
+                    "Username": "yhskolan.e.sandgren",
+                    "Email": null,
+                    "Email2": null,
+                    "MobilePhone": "076-562732134",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Storgatan 34",
+                        "City": "Kälvesta",
+                        "Zip": "14367"
+                    },
+                    "HomePhone": "076-67432611"
+                },
+                {
+                    "Id": 71,
+                    "NationalRegistrationNumber": "19860613-6524",
+                    "FirstName": "Hanna",
+                    "LastName": "Bergström",
+                    "Username": "yhskolan.h.bergstrom",
+                    "Email": null,
+                    "Email2": null,
+                    "MobilePhone": "076-56753426",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Bangatan 2",
+                        "City": "Kymlinge",
+                        "Zip": "18754"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 72,
+                    "NationalRegistrationNumber": "19920103-3447",
+                    "FirstName": "Jasmin",
+                    "LastName": "Flores",
+                    "Username": "yhskolan.j.flores",
+                    "Email": null,
+                    "Email2": null,
+                    "MobilePhone": "074-356281",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Skolgatan 32B",
+                        "City": "Kymlinge",
+                        "Zip": "19782"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 73,
+                    "NationalRegistrationNumber": "19830923-2356",
+                    "FirstName": "Adam",
+                    "LastName": "Svedberg",
+                    "Username": "yhskolan.a.svedberg",
+                    "Email": null,
+                    "Email2": null,
+                    "MobilePhone": "073-67237849",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Bandvägen 22",
+                        "City": "Kymlinge",
+                        "Zip": "19723"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 74,
+                    "NationalRegistrationNumber": "19830415-6543",
+                    "FirstName": "Filippa",
+                    "LastName": "Grahn",
+                    "Username": "yhskolan.f.grahn",
+                    "Email": null,
+                    "Email2": null,
+                    "MobilePhone": "070-67895645",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Johan Skyttevägen 11",
+                        "City": "Kväslinge",
+                        "Zip": "16723"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 76,
+                    "NationalRegistrationNumber": "19880312-6757",
+                    "FirstName": "Filip",
+                    "LastName": "Westberg",
+                    "Username": "yhskolan.f.westberg",
+                    "Email": null,
+                    "Email2": null,
+                    "MobilePhone": "073-78556892",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Kottgatan 34",
+                        "City": "Gullberga",
+                        "Zip": "54389"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 77,
+                    "NationalRegistrationNumber": "19910324-7855",
+                    "FirstName": "Armin",
+                    "LastName": "Jokovic",
+                    "Username": "yhskolan.a.jokovic",
+                    "Email": null,
+                    "Email2": null,
+                    "MobilePhone": "073-67895789",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Gräslöksslingan 43",
+                        "City": "Gropared",
+                        "Zip": "34523"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 78,
+                    "NationalRegistrationNumber": "19840323-9877",
+                    "FirstName": "Johan",
+                    "LastName": "Mörkh",
+                    "Username": "yhskolan.johan.morkh",
+                    "Email": null,
+                    "Email2": null,
+                    "MobilePhone": "073-56789546",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Korthusvägen 56",
+                        "City": "Övergranholm",
+                        "Zip": "87626"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 79,
+                    "NationalRegistrationNumber": "19930415-7655",
+                    "FirstName": "Ahmed",
+                    "LastName": "Al-Khouri",
+                    "Username": "yhskolan.a.al-khouri",
+                    "Email": null,
+                    "Email2": null,
+                    "MobilePhone": "076-5678433",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Kanonjärgatan 3c",
+                        "City": "Malminge",
+                        "Zip": "76323"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 80,
+                    "NationalRegistrationNumber": "19870821-7644",
+                    "FirstName": "Erika",
+                    "LastName": "Hansson",
+                    "Username": "yhskolan.e.hansson",
+                    "Email": null,
+                    "Email2": null,
+                    "MobilePhone": "074-45674574",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Spelfilmsvägen 23",
+                        "City": "Krämköping",
+                        "Zip": "76323"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 81,
+                    "NationalRegistrationNumber": "19921223-8753",
+                    "FirstName": "Adrian",
+                    "LastName": "Handberg",
+                    "Username": "yhskolan.a.handberg",
+                    "Email": null,
+                    "Email2": null,
+                    "MobilePhone": "073-8967234",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Husvagnsvägen 34",
+                        "City": "Kymlinge",
+                        "Zip": "19823"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 85,
+                    "NationalRegistrationNumber": "19860423-7852",
+                    "FirstName": "Johnny",
+                    "LastName": "Ewertsson",
+                    "Username": "yhskolan.j.ewertsson",
+                    "Email": null,
+                    "Email2": null,
+                    "MobilePhone": "073-6786242",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Bollberga 21",
+                        "City": "Salberga",
+                        "Zip": "73423"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 86,
+                    "NationalRegistrationNumber": "19920229-0202",
+                    "FirstName": "Felicia",
+                    "LastName": "Juarez",
+                    "Username": "yhskolan.f.juarez",
+                    "Email": null,
+                    "Email2": null,
+                    "MobilePhone": "073-56785882",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Golfvägen 2",
+                        "City": "Salberga",
+                        "Zip": "76523"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 87,
+                    "NationalRegistrationNumber": "19920512-2345",
+                    "FirstName": "Julia",
+                    "LastName": "Alexandersson",
+                    "Username": "yhskolan.j.alexander",
+                    "Email": null,
+                    "Email2": null,
+                    "MobilePhone": "073-67895649",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Brantingsgatan 3",
+                        "City": "Salanda",
+                        "Zip": "73333"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 88,
+                    "NationalRegistrationNumber": "19840326-6730",
+                    "FirstName": "Henrik",
+                    "LastName": "Svensson",
+                    "Username": "yhskolan.h.svensson",
+                    "Email": null,
+                    "Email2": null,
+                    "MobilePhone": "070-12868839",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Termikvägen",
+                        "City": "Ålleberg",
+                        "Zip": "76423"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 89,
+                    "NationalRegistrationNumber": "19850923-7858",
+                    "FirstName": "Muhammed",
+                    "LastName": "Hamza",
+                    "Username": "yhskolan.m.hamza",
+                    "Email": null,
+                    "Email2": null,
+                    "MobilePhone": "073-67862920",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Fjärilsbacken 2",
+                        "City": "Salanda",
+                        "Zip": "65325"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 90,
+                    "NationalRegistrationNumber": "19900130-6746",
+                    "FirstName": "Jenny",
+                    "LastName": "Mossberg",
+                    "Username": "yhskolan.j.mossberg",
+                    "Email": null,
+                    "Email2": null,
+                    "MobilePhone": "073-5672912",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Salbohedsvägen 53",
+                        "City": "Johannisberg",
+                        "Zip": "73423"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 91,
+                    "NationalRegistrationNumber": "19791118-7826",
+                    "FirstName": "Jeanette",
+                    "LastName": "Fagerström",
+                    "Username": "yhskolan.j.fagerstro",
+                    "Email": null,
+                    "Email2": null,
+                    "MobilePhone": "01021343556",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Äppelgränd 21",
+                        "City": "Rembo",
+                        "Zip": "78623"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 92,
+                    "NationalRegistrationNumber": "19850821-7653",
+                    "FirstName": "Fredrik",
+                    "LastName": "Ståhl",
+                    "Username": "yhskolan.f.stahl",
+                    "Email": null,
+                    "Email2": null,
+                    "MobilePhone": "073-789654679",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Gröntjärns gård",
+                        "City": "Skumbo",
+                        "Zip": "56423"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 93,
+                    "NationalRegistrationNumber": "19870913-8765",
+                    "FirstName": "Selima",
+                    "LastName": "Gurevic",
+                    "Username": "yhskolan.s.gurevic",
+                    "Email": null,
+                    "Email2": null,
+                    "MobilePhone": "070-7632451",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Tomtestigen 23",
+                        "City": "Gryttjom",
+                        "Zip": "78623"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 94,
+                    "NationalRegistrationNumber": "19890402-6724",
+                    "FirstName": "Sara",
+                    "LastName": "Filipsson",
+                    "Username": "yhskolan.s.filipsson",
+                    "Email": null,
+                    "Email2": null,
+                    "MobilePhone": "072-67895959",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Dansbanevägen 21B",
+                        "City": "Källarbacken",
+                        "Zip": "87623"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 95,
+                    "NationalRegistrationNumber": "19870213-7855",
+                    "FirstName": "Vitautas",
+                    "LastName": "Kulevtas",
+                    "Username": "yhskolan.v.kulevtas",
+                    "Email": null,
+                    "Email2": null,
+                    "MobilePhone": "079-78989632",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Godängstorpet PL672",
+                        "City": "Grönberga",
+                        "Zip": "87623"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 97,
+                    "NationalRegistrationNumber": "19860509-3452",
+                    "FirstName": "Philemon",
+                    "LastName": "Arthursson",
+                    "Username": "yhskolan.p.arthursso",
+                    "Email": null,
+                    "Email2": null,
+                    "MobilePhone": "070-12387532",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Kastrullocksvägen 1",
+                        "City": "Snuvinge",
+                        "Zip": "78534"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 98,
+                    "NationalRegistrationNumber": "19940405-4364",
+                    "FirstName": "Anna",
+                    "LastName": "Fahrström",
+                    "Username": "yhskolan.a.fahrstrom",
+                    "Email": null,
+                    "Email2": null,
+                    "MobilePhone": "073-7896221",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Borggränd 3",
+                        "City": "Glamminge",
+                        "Zip": "78324"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 99,
+                    "NationalRegistrationNumber": "19790824-2360",
+                    "FirstName": "Hedwig",
+                    "LastName": "Wägner",
+                    "Username": "yhskolan.h.wagner",
+                    "Email": "test@testsson.se",
+                    "Email2": null,
+                    "MobilePhone": "073-56794904",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Slåttervägen 11",
+                        "City": "Vängsö",
+                        "Zip": "19845"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 100,
+                    "NationalRegistrationNumber": "19911212-7635",
+                    "FirstName": "Jakob",
+                    "LastName": "Green",
+                    "Username": "yhskolan.jakob.green",
+                    "Email": null,
+                    "Email2": null,
+                    "MobilePhone": "010-43272018",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Biljettvägen 23",
+                        "City": "Undersel",
+                        "Zip": "87623"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 101,
+                    "NationalRegistrationNumber": "19890312-8950",
+                    "FirstName": "Juha",
+                    "LastName": "Koskinen",
+                    "Username": "yhskolan.j.koskinen",
+                    "Email": null,
+                    "Email2": null,
+                    "MobilePhone": "073-89278761",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Fyrvägen 43a",
+                        "City": "Granberga",
+                        "Zip": "76234"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 102,
+                    "NationalRegistrationNumber": "19890323-8767",
+                    "FirstName": "Diana",
+                    "LastName": "Mwene",
+                    "Username": "yhskolan.diana.mwene",
+                    "Email": null,
+                    "Email2": null,
+                    "MobilePhone": "073-6781023",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Storgatan 23",
+                        "City": "Ärna",
+                        "Zip": "76234"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 104,
+                    "NationalRegistrationNumber": "19920228-8933",
+                    "FirstName": "Benjamin",
+                    "LastName": "Mubiru",
+                    "Username": "yhskolan.b.mubiru",
+                    "Email": null,
+                    "Email2": null,
+                    "MobilePhone": "073-98712472",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Skevrodervägen 43",
+                        "City": "Kalltofta",
+                        "Zip": "78623"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 105,
+                    "NationalRegistrationNumber": "19890907-4331",
+                    "FirstName": "Gustav",
+                    "LastName": "Eriksson",
+                    "Username": "yhskolan.g.eriksson",
+                    "Email": null,
+                    "Email2": null,
+                    "MobilePhone": "010-3452386",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Växelspaksvägen 54",
+                        "City": "Berghamn",
+                        "Zip": "19834"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 106,
+                    "NationalRegistrationNumber": "19890909-2341",
+                    "FirstName": "Karin",
+                    "LastName": "Granlöf",
+                    "Username": "yhskolan.k.granlof",
+                    "Email": null,
+                    "Email2": null,
+                    "MobilePhone": "076-2389243",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Ekskogsvägen 21",
+                        "City": "Brattforsheden",
+                        "Zip": "76392"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 107,
+                    "NationalRegistrationNumber": "19870423-9865",
+                    "FirstName": "Jane",
+                    "LastName": "Svedmyr",
+                    "Username": "yhskolan.j.svedmyr",
+                    "Email": null,
+                    "Email2": null,
+                    "MobilePhone": "073-5162863",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Salixvägen 2",
+                        "City": "Vängsö",
+                        "Zip": "87634"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 108,
+                    "NationalRegistrationNumber": "19730326-0579",
+                    "FirstName": "Tero",
+                    "LastName": "Testman",
+                    "Username": "yhskolan.t.testman",
+                    "Email": "ture.testman@test.test",
+                    "Email2": null,
+                    "MobilePhone": "070",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Vägen 1",
+                        "City": "Orten",
+                        "Zip": "12345"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 113,
+                    "NationalRegistrationNumber": "19851010-0001",
+                    "FirstName": "Agda",
+                    "LastName": "Adammson",
+                    "Username": "yhskolan.a.adammson",
+                    "Email": "testapplicant4@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": "070-67890",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Storgatan 10",
+                        "City": "Skolstaden",
+                        "Zip": "12345"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 114,
+                    "NationalRegistrationNumber": "19851010-0002",
+                    "FirstName": "Adam",
+                    "LastName": "Anders",
+                    "Username": "yhskolan.adam.anders",
+                    "Email": "testapplicant18@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": "070-456722",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Storgatan 153",
+                        "City": "Skolstaden",
+                        "Zip": "89990"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 115,
+                    "NationalRegistrationNumber": "19851010-0003",
+                    "FirstName": "Sara",
+                    "LastName": "Anders",
+                    "Username": "yhskolan.sara.anders",
+                    "Email": "testapplicant23@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": "070-456722",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Storgatan 15",
+                        "City": "Skolstaden",
+                        "Zip": "89990"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 116,
+                    "NationalRegistrationNumber": "19851010-0004",
+                    "FirstName": "Kaj",
+                    "LastName": "Axelsson",
+                    "Username": "yhskolan.k.axelsson",
+                    "Email": "testapplicant45@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": "070-456722",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Storgatan 16",
+                        "City": "Skolstaden",
+                        "Zip": "89990"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 118,
+                    "NationalRegistrationNumber": "19851010-0006",
+                    "FirstName": "Ashlin",
+                    "LastName": "Bergsten",
+                    "Username": "yhskolan.a.bergsten",
+                    "Email": "testapplicant26@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": "070-456722",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Storgatan 15",
+                        "City": "Skolstaden",
+                        "Zip": "89990"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 119,
+                    "NationalRegistrationNumber": "19851010-0007",
+                    "FirstName": "Eugenia",
+                    "LastName": "Bergvall",
+                    "Username": "yhskolan.e.bergvall",
+                    "Email": "testapplicant46@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": "070-456722",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Storgatan 15",
+                        "City": "Skolstaden",
+                        "Zip": "89990"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 122,
+                    "NationalRegistrationNumber": "19851010-0010",
+                    "FirstName": "Eilert",
+                    "LastName": "Davidsson",
+                    "Username": "yhskolan.e.davidsson",
+                    "Email": "testapplicant34@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": "070-456722",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Storgatan 15",
+                        "City": "Skolstaden",
+                        "Zip": "89990"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 123,
+                    "NationalRegistrationNumber": "19851010-0011",
+                    "FirstName": "Brit",
+                    "LastName": "Flodin",
+                    "Username": "yhskolan.brit.flodin",
+                    "Email": "testapplicant39@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": "070-456722",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Storgatan 15",
+                        "City": "Skolstaden",
+                        "Zip": "89990"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 124,
+                    "NationalRegistrationNumber": "19851010-0012",
+                    "FirstName": "Gerd",
+                    "LastName": "Hammar",
+                    "Username": "yhskolan.gerd.hammar",
+                    "Email": "kamil.gourie@viaecole.se",
+                    "Email2": null,
+                    "MobilePhone": "070-456722",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Storgatan 15",
+                        "City": "Skolstaden",
+                        "Zip": "89990"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 126,
+                    "NationalRegistrationNumber": "19851010-0014",
+                    "FirstName": "Anika",
+                    "LastName": "Ingman",
+                    "Username": "yhskolan.a.ingman",
+                    "Email": "testapplicant41@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": "070-456722",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Storgatan 15",
+                        "City": "Skolstaden",
+                        "Zip": "89990"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 133,
+                    "NationalRegistrationNumber": "19940317-9139",
+                    "FirstName": "Ceclermchai",
+                    "LastName": "Andson malmengård ",
+                    "Username": "yhskolan.c.andson.ma",
+                    "Email": "testapplicant30@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": "070-12345678",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Blidvädersvägen 6B",
+                        "City": "malmö",
+                        "Zip": "21619"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 134,
+                    "NationalRegistrationNumber": "19870304-1486",
+                    "FirstName": "Gabina Matilda",
+                    "LastName": "Emdersson",
+                    "Username": "yhskolan.g.emdersson",
+                    "Email": "testapplicant27@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": "070-12345678",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Korsgatan 13",
+                        "City": "Märsta",
+                        "Zip": "19535"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 135,
+                    "NationalRegistrationNumber": "19810629-3015",
+                    "FirstName": "Mira",
+                    "LastName": "Andlsen",
+                    "Username": "yhskolan.m.andlsen",
+                    "Email": "testapplicant22@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": "070-12345678",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Regeringsgatan39",
+                        "City": "Kristianstad",
+                        "Zip": "291 33"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 136,
+                    "NationalRegistrationNumber": "19930526-2496",
+                    "FirstName": "Nugwan",
+                    "LastName": "Andsson",
+                    "Username": "yhskolan.n.andsson",
+                    "Email": "testapplicant28@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": "070-12345678",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "idungatan 12",
+                        "City": "GÄVLE",
+                        "Zip": "80255"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 137,
+                    "NationalRegistrationNumber": "19880630-4328",
+                    "FirstName": "Sebiam",
+                    "LastName": "Davesén",
+                    "Username": "yhskolan.s.davesen",
+                    "Email": "testapplicant36@test.yh-antagning.se",
+                    "Email2": null,
+                    "MobilePhone": "070-12345678",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Ringvägen 15 b",
+                        "City": "Malmö",
+                        "Zip": "21455"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 155,
+                    "NationalRegistrationNumber": "12345678-7890",
+                    "FirstName": "Daniel",
+                    "LastName": "Gidlöf",
+                    "Username": "yhskolan.d.gidlof",
+                    "Email": null,
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Lidervägen 7",
+                        "City": "Örnsköldsvik",
+                        "Zip": "891 51"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 156,
+                    "NationalRegistrationNumber": "19770303-7890",
+                    "FirstName": "Daniel",
+                    "LastName": "Gidlöf",
+                    "Username": "yhskolan.d.gidlof1",
+                    "Email": null,
+                    "Email2": null,
+                    "MobilePhone": null,
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Lidervägen 7",
+                        "City": "Örnsköldsvik",
+                        "Zip": "891 51"
+                    },
+                    "HomePhone": null
+                },
+                {
+                    "Id": 157,
+                    "NationalRegistrationNumber": "12345687-7890",
+                    "FirstName": "Daniel",
+                    "LastName": "Gidlöf",
+                    "Username": "yhskolan.d.gidlof2",
+                    "Email": "daniel@gidlof.eu",
+                    "Email2": "daniel.gidlof@viaecole.se",
+                    "MobilePhone": "0705733223",
+                    "HomeAddress": {
+                        "CO": null,
+                        "Street": "Lidervägen 7",
+                        "City": "Örnsköldsvik",
+                        "Zip": "891 51"
+                    },
+                    "HomePhone": null
+                }
+            ],
+            "GroupRoles": [
+                {
+                    "Id": 2,
+                    "Name": "Medlem"
+                },
+                {
+                    "Id": 7,
+                    "Name": "Medlem"
+                },
+                {
+                    "Id": 8,
+                    "Name": "Medlem"
+                },
+                {
+                    "Id": 10,
+                    "Name": "Personal"
+                },
+                {
+                    "Id": 14,
+                    "Name": "Studerande"
+                },
+                {
+                    "Id": 16,
+                    "Name": "Studerande"
+                },
+                {
+                    "Id": 20,
+                    "Name": "Studerande"
+                },
+                {
+                    "Id": 21,
+                    "Name": "Kursansvarig"
+                },
+                {
+                    "Id": 25,
+                    "Name": "Personal"
+                },
+                {
+                    "Id": 26,
+                    "Name": "Utbildningsledare"
+                },
+                {
+                    "Id": 27,
+                    "Name": "Personal"
+                },
+                {
+                    "Id": 33,
+                    "Name": "Utbildningsledare"
+                },
+                {
+                    "Id": 39,
+                    "Name": "Klassadministratör"
+                },
+                {
+                    "Id": 40,
+                    "Name": "Kursadministratör"
+                }
+            ],
+            "CourseDefinitions": [
+                {
+                    "Id": 129,
+                    "Code": "EK17_LIA1",
+                    "Name": "Lärande i arbete, LIA 1",
+                    "IsInternship": true
+                }
+            ]
+        }
+    }
+}

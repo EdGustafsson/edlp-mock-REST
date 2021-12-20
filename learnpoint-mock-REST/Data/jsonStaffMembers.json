@@ -1,0 +1,4491 @@
+{
+    "ApiVersion": "2.6.20211216135324",
+    "Data": {
+        "StaffMembers": [
+            {
+                "Id": 21,
+                "NationalRegistrationNumber": "19XXXXXX-XX21",
+                "Signature": "PSN",
+                "FirstName": "Pelle",
+                "LastName": "Persson",
+                "Username": "yhskolan.p.persson",
+                "Email": "daniel.gidlof@viaecole.se",
+                "Email2": null,
+                "MobilePhone": "073-XXXXXX",
+                "MayExposeMobilePhoneToStudents": true,
+                "Groups": [
+                    {
+                        "Group": {
+                            "Id": 1
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 27
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 4
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 2
+                            },
+                            {
+                                "Id": 25
+                            },
+                            {
+                                "Id": 26
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 24
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 26
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 28
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 30
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 32
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 34
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 40
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 62
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 66
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 68
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 70
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 74
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 76
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 78
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 80
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 82
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 84
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 86
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 89
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 2
+                            },
+                            {
+                                "Id": 25
+                            },
+                            {
+                                "Id": 26
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 170
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 181
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 264
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": 22,
+                "NationalRegistrationNumber": null,
+                "Signature": "HHA",
+                "FirstName": "Hasse",
+                "LastName": "Hansson",
+                "Username": "yhskolan.h.hansson",
+                "Email": "mickel.west@gmail.com",
+                "Email2": null,
+                "MobilePhone": null,
+                "MayExposeMobilePhoneToStudents": true,
+                "Groups": [
+                    {
+                        "Group": {
+                            "Id": 1
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 27
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 4
+                        },
+                        "IsGroupManager": false,
+                        "GroupRoles": [
+                            {
+                                "Id": 2
+                            },
+                            {
+                                "Id": 25
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 26
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 32
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 40
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 89
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 2
+                            },
+                            {
+                                "Id": 25
+                            },
+                            {
+                                "Id": 26
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 165
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 170
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 172
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 2
+                            },
+                            {
+                                "Id": 25
+                            },
+                            {
+                                "Id": 26
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 173
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 175
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 177
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 179
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 181
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 183
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 185
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 187
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 189
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 259
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 2
+                            },
+                            {
+                                "Id": 25
+                            },
+                            {
+                                "Id": 26
+                            },
+                            {
+                                "Id": 39
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 260
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 292
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 317
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            },
+                            {
+                                "Id": 33
+                            },
+                            {
+                                "Id": 40
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": 68,
+                "NationalRegistrationNumber": null,
+                "Signature": "AAN",
+                "FirstName": "Anders",
+                "LastName": "Andersson",
+                "Username": "yhskolan.a.andersson",
+                "Email": "anders.andersson@yh-skolan.se",
+                "Email2": null,
+                "MobilePhone": null,
+                "MayExposeMobilePhoneToStudents": false,
+                "Groups": [
+                    {
+                        "Group": {
+                            "Id": 24
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 26
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 28
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 30
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 32
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 34
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 40
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 62
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 168
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": 75,
+                "NationalRegistrationNumber": "19560312-6979",
+                "Signature": "GBu",
+                "FirstName": "Göran",
+                "LastName": "Bucht",
+                "Username": "yhskolan.goran.bucht",
+                "Email": "goran.bucht@yh-skolan.se",
+                "Email2": null,
+                "MobilePhone": "073-679213434",
+                "MayExposeMobilePhoneToStudents": true,
+                "Groups": [
+                    {
+                        "Group": {
+                            "Id": 1
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 27
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 32
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 46
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 50
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 54
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 170
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 172
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 2
+                            },
+                            {
+                                "Id": 25
+                            },
+                            {
+                                "Id": 26
+                            },
+                            {
+                                "Id": 39
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 173
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 175
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 177
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 179
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 183
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 185
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 187
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 189
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 260
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 264
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 294
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 317
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            },
+                            {
+                                "Id": 33
+                            },
+                            {
+                                "Id": 40
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 339
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 362
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": 82,
+                "NationalRegistrationNumber": "19750623-8752",
+                "Signature": "TGk",
+                "FirstName": "Torbjörn",
+                "LastName": "Grönkvist",
+                "Username": "yhskolan.t.gronkvist",
+                "Email": "jonas.bergvall@viaecole.se",
+                "Email2": null,
+                "MobilePhone": null,
+                "MayExposeMobilePhoneToStudents": true,
+                "Groups": [
+                    {
+                        "Group": {
+                            "Id": 1
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 27
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 43
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 2
+                            },
+                            {
+                                "Id": 25
+                            },
+                            {
+                                "Id": 26
+                            },
+                            {
+                                "Id": 39
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 44
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 46
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 48
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 50
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 52
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 54
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 56
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 58
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 266
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 268
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 282
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 320
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 360
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": 84,
+                "NationalRegistrationNumber": null,
+                "Signature": "FZa",
+                "FirstName": "Fredrico",
+                "LastName": "Zalazar",
+                "Username": "yhskolan.f.zalazar",
+                "Email": "fredrico.zalazar@yhskolan.se",
+                "Email2": null,
+                "MobilePhone": null,
+                "MayExposeMobilePhoneToStudents": true,
+                "Groups": [
+                    {
+                        "Group": {
+                            "Id": 194
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 202
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 208
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 213
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 216
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 356
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 358
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 364
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": 96,
+                "NationalRegistrationNumber": null,
+                "Signature": "GVa",
+                "FirstName": "Gisela",
+                "LastName": "Vantoft",
+                "Username": "yhskolan.g.vantoft",
+                "Email": "gisela.vantoft@yhskolan.se",
+                "Email2": null,
+                "MobilePhone": null,
+                "MayExposeMobilePhoneToStudents": true,
+                "Groups": [
+                    {
+                        "Group": {
+                            "Id": 1
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 27
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 46
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 170
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 192
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 194
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 196
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 198
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 200
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 202
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 204
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 206
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 208
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 210
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 2
+                            },
+                            {
+                                "Id": 25
+                            },
+                            {
+                                "Id": 26
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 211
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 213
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 216
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 218
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 259
+                        },
+                        "IsGroupManager": false,
+                        "GroupRoles": [
+                            {
+                                "Id": 2
+                            },
+                            {
+                                "Id": 25
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 282
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 320
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 325
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 331
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 346
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 351
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 356
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 358
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": 109,
+                "NationalRegistrationNumber": null,
+                "Signature": "JJA",
+                "FirstName": "Jan",
+                "LastName": "Jansson",
+                "Username": "yhskolan.jan.jansson",
+                "Email": "martin.vehmas@viaecole.se",
+                "Email2": null,
+                "MobilePhone": null,
+                "MayExposeMobilePhoneToStudents": true,
+                "Groups": [
+                    {
+                        "Group": {
+                            "Id": 1
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 27
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 5
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 2
+                            },
+                            {
+                                "Id": 25
+                            },
+                            {
+                                "Id": 26
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 312
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": 127,
+                "NationalRegistrationNumber": null,
+                "Signature": "TTE",
+                "FirstName": "Ture",
+                "LastName": "Testman",
+                "Username": "yhskolan.t.testman1",
+                "Email": "martin.vehmasviaecole.se",
+                "Email2": null,
+                "MobilePhone": null,
+                "MayExposeMobilePhoneToStudents": true,
+                "Groups": [
+                    {
+                        "Group": {
+                            "Id": 1
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 27
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 210
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 2
+                            },
+                            {
+                                "Id": 25
+                            },
+                            {
+                                "Id": 26
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 211
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 213
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 33
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": 128,
+                "NationalRegistrationNumber": null,
+                "Signature": "FBe",
+                "FirstName": "Filip",
+                "LastName": "Bertilsson",
+                "Username": "yhskolan.f.bertilsso",
+                "Email": "filip.bertilsson@yh-skolan.se",
+                "Email2": null,
+                "MobilePhone": null,
+                "MayExposeMobilePhoneToStudents": true,
+                "Groups": [
+                    {
+                        "Group": {
+                            "Id": 314
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 331
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": 129,
+                "NationalRegistrationNumber": null,
+                "Signature": "NNI",
+                "FirstName": "Nils",
+                "LastName": "Nilsson",
+                "Username": "yhskolan.n.nilsson",
+                "Email": "nils.nilsson@fejk.fejk",
+                "Email2": null,
+                "MobilePhone": null,
+                "MayExposeMobilePhoneToStudents": true,
+                "Groups": [
+                    {
+                        "Group": {
+                            "Id": 28
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 40
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 264
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": 130,
+                "NationalRegistrationNumber": null,
+                "Signature": "TTES",
+                "FirstName": "Ture",
+                "LastName": "Testman",
+                "Username": "yhskolan.t.testman2",
+                "Email": "martin@vehmas.se",
+                "Email2": null,
+                "MobilePhone": null,
+                "MayExposeMobilePhoneToStudents": true,
+                "Groups": [
+                    {
+                        "Group": {
+                            "Id": 271
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 8
+                            },
+                            {
+                                "Id": 10
+                            },
+                            {
+                                "Id": 21
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": 131,
+                "NationalRegistrationNumber": null,
+                "Signature": "JBe",
+                "FirstName": "Jonas",
+                "LastName": "Bergvall",
+                "Username": "yhskolan.j.bergvall",
+                "Email": "jonas.bergvall@viaecole.se",
+                "Email2": null,
+                "MobilePhone": null,
+                "MayExposeMobilePhoneToStudents": true,
+                "Groups": [
+                    {
+                        "Group": {
+                            "Id": 1
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 27
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": 142,
+                "NationalRegistrationNumber": null,
+                "Signature": "JBV",
+                "FirstName": "Jonas",
+                "LastName": "Bvall",
+                "Username": "yhskolan.jonas.bvall",
+                "Email": "jonas.bvall@fejk.se",
+                "Email2": null,
+                "MobilePhone": null,
+                "MayExposeMobilePhoneToStudents": true,
+                "Groups": []
+            },
+            {
+                "Id": 143,
+                "NationalRegistrationNumber": null,
+                "Signature": "BJo",
+                "FirstName": "Benny",
+                "LastName": "Johansson",
+                "Username": "yhskolan.b.johansson",
+                "Email": "BJ@yhskolan.se",
+                "Email2": null,
+                "MobilePhone": null,
+                "MayExposeMobilePhoneToStudents": true,
+                "Groups": [
+                    {
+                        "Group": {
+                            "Id": 1
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 27
+                            }
+                        ]
+                    },
+                    {
+                        "Group": {
+                            "Id": 350
+                        },
+                        "IsGroupManager": true,
+                        "GroupRoles": [
+                            {
+                                "Id": 2
+                            },
+                            {
+                                "Id": 25
+                            },
+                            {
+                                "Id": 26
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": 144,
+                "NationalRegistrationNumber": null,
+                "Signature": "TT",
+                "FirstName": "Test",
+                "LastName": "Test",
+                "Username": "yhskolan.test.test",
+                "Email": "test@test.se",
+                "Email2": null,
+                "MobilePhone": null,
+                "MayExposeMobilePhoneToStudents": true,
+                "Groups": []
+            },
+            {
+                "Id": 147,
+                "NationalRegistrationNumber": null,
+                "Signature": "XLT",
+                "FirstName": "Extra",
+                "LastName": "Allt",
+                "Username": "yhskolan.extra.allt",
+                "Email": "daniel@gidlof.eu",
+                "Email2": null,
+                "MobilePhone": null,
+                "MayExposeMobilePhoneToStudents": true,
+                "Groups": []
+            },
+            {
+                "Id": 152,
+                "NationalRegistrationNumber": null,
+                "Signature": "ATE",
+                "FirstName": "Admin",
+                "LastName": "Testmästare",
+                "Username": "yhskolan.a.testmasta",
+                "Email": "daniel2@gidlof.eu",
+                "Email2": null,
+                "MobilePhone": null,
+                "MayExposeMobilePhoneToStudents": true,
+                "Groups": [
+                    {
+                        "Group": {
+                            "Id": 1
+                        },
+                        "GroupRoles": [
+                            {
+                                "Id": 7
+                            },
+                            {
+                                "Id": 27
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": 154,
+                "NationalRegistrationNumber": null,
+                "Signature": "SaSc",
+                "FirstName": "Sam",
+                "LastName": "Schemaläggare",
+                "Username": "yhskolan.s.schemala1",
+                "Email": "sammy@schema.ze",
+                "Email2": null,
+                "MobilePhone": null,
+                "MayExposeMobilePhoneToStudents": true,
+                "Groups": []
+            }
+        ],
+        "ReferenceData": {
+            "Groups": [
+                {
+                    "Id": 1,
+                    "Name": "Yh-skolan",
+                    "Code": "Yh-skolan",
+                    "LifespanFrom": null,
+                    "LifespanUntil": null,
+                    "Category": {
+                        "Code": "School",
+                        "Name": "Skola"
+                    }
+                },
+                {
+                    "Id": 4,
+                    "Name": "Ekonomiassistent 2015",
+                    "Code": "EK15",
+                    "LifespanFrom": "2015-08-16T22:00:00Z",
+                    "LifespanUntil": "2017-06-30T21:59:59.997Z",
+                    "Category": {
+                        "Code": "EducationInstance",
+                        "Name": "Klass"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 1
+                        }
+                    }
+                },
+                {
+                    "Id": 5,
+                    "Name": "Teknikkonsult 2015",
+                    "Code": "TEK15",
+                    "LifespanFrom": "2015-08-16T22:00:00Z",
+                    "LifespanUntil": "2017-06-09T21:59:59.997Z",
+                    "Category": {
+                        "Code": "EducationInstance",
+                        "Name": "Klass"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 1
+                        }
+                    }
+                },
+                {
+                    "Id": 24,
+                    "Name": "Att arbeta i näringslivet",
+                    "Code": "EK15_AAN",
+                    "LifespanFrom": "2016-01-31T23:00:00Z",
+                    "LifespanUntil": "2016-02-29T22:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 4
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 26,
+                    "Name": "Grundläggande teori och praktik",
+                    "Code": "EK15_GTP",
+                    "LifespanFrom": "2016-02-14T23:00:00Z",
+                    "LifespanUntil": "2016-03-06T22:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 4
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 28,
+                    "Name": "Grundkurs ekonomi",
+                    "Code": "EK15_GEK",
+                    "LifespanFrom": "2015-11-08T23:00:00Z",
+                    "LifespanUntil": "2015-12-18T22:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 4
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 30,
+                    "Name": "Teknikkurs 1",
+                    "Code": "EK15_TEK1",
+                    "LifespanFrom": "2015-12-13T23:00:00Z",
+                    "LifespanUntil": "2016-02-12T22:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 4
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 32,
+                    "Name": "Teknikkurs 2",
+                    "Code": "EK15_TEK2",
+                    "LifespanFrom": "2021-09-01T22:00:00Z",
+                    "LifespanUntil": "2021-10-08T21:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 4
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 34,
+                    "Name": "Lärande i arbete, LIA 1",
+                    "Code": "EK15_LIA1",
+                    "LifespanFrom": "2016-04-10T22:00:00Z",
+                    "LifespanUntil": "2016-05-27T21:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 4
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 40,
+                    "Name": "Systemunderhåll",
+                    "Code": "EK15_SYS",
+                    "LifespanFrom": "2017-01-01T23:00:00Z",
+                    "LifespanUntil": "2017-03-31T21:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 4
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 43,
+                    "Name": "Ekonomiassistent 2016",
+                    "Code": "EK16",
+                    "LifespanFrom": "2016-08-16T22:00:00Z",
+                    "LifespanUntil": "2018-06-09T21:59:59.997Z",
+                    "Category": {
+                        "Code": "EducationInstance",
+                        "Name": "Klass"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 1
+                        }
+                    }
+                },
+                {
+                    "Id": 44,
+                    "Name": "Att arbeta i näringslivet",
+                    "Code": "EK16_AAN",
+                    "LifespanFrom": "2016-06-30T22:00:00Z",
+                    "LifespanUntil": "2017-08-25T21:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 43
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 46,
+                    "Name": "Grundläggande teori och praktik",
+                    "Code": "EK16_GTP",
+                    "LifespanFrom": "2016-12-31T23:00:00Z",
+                    "LifespanUntil": "2017-01-24T22:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 43
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 48,
+                    "Name": "Grundkurs ekonomi",
+                    "Code": "EK16_GEK",
+                    "LifespanFrom": "2016-06-30T22:00:00Z",
+                    "LifespanUntil": "2016-12-23T22:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 43
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 50,
+                    "Name": "Teknikkurs 1",
+                    "Code": "EK16_TEK1",
+                    "LifespanFrom": "2016-06-30T22:00:00Z",
+                    "LifespanUntil": "2017-08-11T21:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 43
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 52,
+                    "Name": "Teknikkurs 2",
+                    "Code": "EK16_TEK2",
+                    "LifespanFrom": "2017-01-29T23:00:00Z",
+                    "LifespanUntil": "2017-06-30T21:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 43
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 54,
+                    "Name": "Lärande i arbete, LIA 1",
+                    "Code": "EK16_LIA1",
+                    "LifespanFrom": "2017-01-29T23:00:00Z",
+                    "LifespanUntil": "2017-12-20T22:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 43
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 56,
+                    "Name": "Systemunderhåll",
+                    "Code": "EK16_SYS",
+                    "LifespanFrom": "2017-06-30T22:00:00Z",
+                    "LifespanUntil": "2017-12-31T22:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 43
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 58,
+                    "Name": "Presentationsteknik",
+                    "Code": "EK16_PTEK",
+                    "LifespanFrom": "2017-07-30T22:00:00Z",
+                    "LifespanUntil": "2017-12-31T22:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 43
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 62,
+                    "Name": "Presentationsteknik",
+                    "Code": "EK15_PTEK",
+                    "LifespanFrom": "2016-07-31T22:00:00Z",
+                    "LifespanUntil": "2016-08-18T21:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 4
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 65,
+                    "Name": "Trädgårdsanläggare 2014",
+                    "Code": "TGA14",
+                    "LifespanFrom": "2014-08-12T22:00:00Z",
+                    "LifespanUntil": "2015-12-18T22:59:59.997Z",
+                    "Category": {
+                        "Code": "EducationInstance",
+                        "Name": "Klass"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 1
+                        }
+                    }
+                },
+                {
+                    "Id": 66,
+                    "Name": "Arbetsmiljö och säkerhet",
+                    "Code": "TGA14_1",
+                    "LifespanFrom": "2014-08-24T22:00:00Z",
+                    "LifespanUntil": "2014-10-31T22:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 65
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 68,
+                    "Name": "Markbyggnad - grovplanering",
+                    "Code": "TGA14_2",
+                    "LifespanFrom": "2014-09-11T22:00:00Z",
+                    "LifespanUntil": "2014-10-31T22:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 65
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 70,
+                    "Name": "Markbyggnad - markutrustning",
+                    "Code": "TGA14_3",
+                    "LifespanFrom": "2014-11-02T23:00:00Z",
+                    "LifespanUntil": "2014-12-22T22:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 65
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 74,
+                    "Name": "Examensarbete",
+                    "Code": "TGA14_5",
+                    "LifespanFrom": "2015-08-24T22:00:00Z",
+                    "LifespanUntil": "2015-12-23T22:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 65
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 76,
+                    "Name": "Markbyggnad - vegetation",
+                    "Code": "TGA14_6",
+                    "LifespanFrom": "2015-03-17T23:00:00Z",
+                    "LifespanUntil": "2015-06-13T21:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 65
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 78,
+                    "Name": "Markbyggnadsprocessen",
+                    "Code": "TGA14_7",
+                    "LifespanFrom": "2015-01-06T23:00:00Z",
+                    "LifespanUntil": "2015-12-22T22:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 65
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 80,
+                    "Name": "Fördjupad växtkunskap",
+                    "Code": "TGA14_8",
+                    "LifespanFrom": "2015-03-17T23:00:00Z",
+                    "LifespanUntil": "2015-10-31T22:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 65
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 82,
+                    "Name": "LIA - finplanering",
+                    "Code": "TGA14_9",
+                    "LifespanFrom": "2015-04-22T22:00:00Z",
+                    "LifespanUntil": "2015-06-30T21:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 65
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 84,
+                    "Name": "LIA - vegetation",
+                    "Code": "TGA14_10",
+                    "LifespanFrom": "2015-07-22T22:00:00Z",
+                    "LifespanUntil": "2015-09-15T21:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 65
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 86,
+                    "Name": "LIA - markutrustning",
+                    "Code": "TGA14_11",
+                    "LifespanFrom": "2015-09-17T22:00:00Z",
+                    "LifespanUntil": "2015-10-20T21:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 65
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 88,
+                    "Name": "Undersköterska inom palliativ vård 2015",
+                    "Code": "UPV15",
+                    "LifespanFrom": "2015-08-18T22:00:00Z",
+                    "LifespanUntil": "2017-06-16T21:59:59.997Z",
+                    "Category": {
+                        "Code": "EducationInstance",
+                        "Name": "Klass"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 1
+                        }
+                    }
+                },
+                {
+                    "Id": 89,
+                    "Name": "Redovisningskonsult 2015",
+                    "Code": "REKO15",
+                    "LifespanFrom": "2015-10-31T23:00:00Z",
+                    "LifespanUntil": "2017-01-16T22:59:59.997Z",
+                    "Category": {
+                        "Code": "EducationInstance",
+                        "Name": "Klass"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 1
+                        }
+                    }
+                },
+                {
+                    "Id": 165,
+                    "Name": "Lärande i arbete, LIA 1",
+                    "Code": "EK15_LIA1_1",
+                    "LifespanFrom": "2015-09-06T22:00:00Z",
+                    "LifespanUntil": "2015-12-23T22:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 88
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 168,
+                    "Name": "Smärta och smärtlindring",
+                    "Code": "UPV15_2",
+                    "LifespanFrom": "2016-09-12T22:00:00Z",
+                    "LifespanUntil": "2016-12-31T22:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 88
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 170,
+                    "Name": "Lärande i arbete, LIA 2",
+                    "Code": "EK15_LIA2",
+                    "LifespanFrom": "2017-03-19T23:00:00Z",
+                    "LifespanUntil": "2017-06-18T21:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 4
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 172,
+                    "Name": "Flygmotortekniker 2014",
+                    "Code": "FMT14",
+                    "LifespanFrom": "2014-08-27T22:00:00Z",
+                    "LifespanUntil": "2016-06-13T21:59:59.997Z",
+                    "Category": {
+                        "Code": "EducationInstance",
+                        "Name": "Klass"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 1
+                        }
+                    }
+                },
+                {
+                    "Id": 173,
+                    "Name": "Tändsystem kolvmotorer",
+                    "Code": "FMT14_1",
+                    "LifespanFrom": "2014-06-30T22:00:00Z",
+                    "LifespanUntil": "2014-12-31T22:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 172
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 175,
+                    "Name": "Tändsystem turbinmotorer",
+                    "Code": "FMT14_2",
+                    "LifespanFrom": "2014-06-30T22:00:00Z",
+                    "LifespanUntil": "2014-12-31T22:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 172
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 177,
+                    "Name": "Flygmotorunderhåll kolvmotorer",
+                    "Code": "FMT14_3",
+                    "LifespanFrom": "2014-12-31T23:00:00Z",
+                    "LifespanUntil": "2015-06-30T21:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 172
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 179,
+                    "Name": "Flygmotorunderhåll turbinmotorer",
+                    "Code": "FMT14_4",
+                    "LifespanFrom": "2014-12-31T23:00:00Z",
+                    "LifespanUntil": "2015-06-30T21:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 277
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 5
+                            },
+                            "ParentGroup": {
+                                "Group": {
+                                    "Id": 1
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 181,
+                    "Name": "Arbetsmiljö och säkerhet",
+                    "Code": "FMT14_5",
+                    "LifespanFrom": "2014-06-30T22:00:00Z",
+                    "LifespanUntil": "2014-12-31T22:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 172
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 183,
+                    "Name": "LIA - Verkstad",
+                    "Code": "FMT14_6",
+                    "LifespanFrom": "2015-06-30T22:00:00Z",
+                    "LifespanUntil": "2015-12-31T22:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 172
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 185,
+                    "Name": "LIA - Flygplats",
+                    "Code": "FMT14_7",
+                    "LifespanFrom": "2015-12-31T23:00:00Z",
+                    "LifespanUntil": "2016-06-30T21:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 172
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 187,
+                    "Name": "Bestämmelser och regelverk",
+                    "Code": "FMT14_8",
+                    "LifespanFrom": "2015-12-31T23:00:00Z",
+                    "LifespanUntil": "2016-06-30T21:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 172
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 189,
+                    "Name": "Flygmotorlära",
+                    "Code": "FMT14_9",
+                    "LifespanFrom": "2014-12-31T23:00:00Z",
+                    "LifespanUntil": "2015-06-30T21:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 172
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 191,
+                    "Name": "Driftledare Jordbruk 2015",
+                    "Code": "DLJ15",
+                    "LifespanFrom": "2015-08-31T22:00:00Z",
+                    "LifespanUntil": "2017-06-15T21:59:59.997Z",
+                    "Category": {
+                        "Code": "EducationInstance",
+                        "Name": "Klass"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 1
+                        }
+                    }
+                },
+                {
+                    "Id": 192,
+                    "Name": "Foderodling och betesproduktion",
+                    "Code": "DLJ15_FoB",
+                    "LifespanFrom": "2015-08-16T22:00:00Z",
+                    "LifespanUntil": "2015-10-14T21:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 191
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 194,
+                    "Name": "Arbetsledning och arbetsrätt",
+                    "Code": "DLJ15_Arb",
+                    "LifespanFrom": "2015-10-15T22:00:00Z",
+                    "LifespanUntil": "2015-12-22T22:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 191
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 196,
+                    "Name": "Djurhållning och avel",
+                    "Code": "DLJ15_DoA",
+                    "LifespanFrom": "2015-06-30T22:00:00Z",
+                    "LifespanUntil": "2016-06-29T21:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 191
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 198,
+                    "Name": "Ekologisk odling",
+                    "Code": "DLJ15_EkO",
+                    "LifespanFrom": "2016-01-17T23:00:00Z",
+                    "LifespanUntil": "2016-05-12T21:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 191
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 200,
+                    "Name": "LIA - Stallförman",
+                    "Code": "DLJ15_StF",
+                    "LifespanFrom": "2016-03-27T22:00:00Z",
+                    "LifespanUntil": "2016-06-30T21:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 191
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 202,
+                    "Name": "Redovisning och beskattning",
+                    "Code": "DLJ15_RoB",
+                    "LifespanFrom": "2016-09-06T22:00:00Z",
+                    "LifespanUntil": "2016-10-31T22:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 191
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 204,
+                    "Name": "LIA - Höstbruk",
+                    "Code": "DLJ15_LIA-H",
+                    "LifespanFrom": "2016-06-30T22:00:00Z",
+                    "LifespanUntil": "2016-09-06T21:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 191
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 206,
+                    "Name": "LIA - Vårbruk",
+                    "Code": "DLJ15_LIA-V",
+                    "LifespanFrom": "2016-12-31T23:00:00Z",
+                    "LifespanUntil": "2017-06-30T21:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 191
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 208,
+                    "Name": "Lantbruksföretagande",
+                    "Code": "DLJ15_LBF",
+                    "LifespanFrom": "2016-10-31T23:00:00Z",
+                    "LifespanUntil": "2017-02-28T22:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 191
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 210,
+                    "Name": "Driftledare Jordbruk 2016",
+                    "Code": "DLJ16",
+                    "LifespanFrom": "2016-08-31T22:00:00Z",
+                    "LifespanUntil": "2018-06-15T21:59:59.997Z",
+                    "Category": {
+                        "Code": "EducationInstance",
+                        "Name": "Klass"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 1
+                        }
+                    }
+                },
+                {
+                    "Id": 211,
+                    "Name": "Foderodling och betesproduktion",
+                    "Code": "DLJ16_FoB",
+                    "LifespanFrom": "2016-07-31T22:00:00Z",
+                    "LifespanUntil": "2016-08-12T21:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 210
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 213,
+                    "Name": "Arbetsledning och arbetsrätt",
+                    "Code": "DLJ16_ArbRätt",
+                    "LifespanFrom": "2016-07-18T22:00:00Z",
+                    "LifespanUntil": "2016-11-22T22:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 210
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 215,
+                    "Name": "Redovisningskonsult 2016",
+                    "Code": "REKO16",
+                    "LifespanFrom": "2016-10-31T23:00:00Z",
+                    "LifespanUntil": "2018-01-16T22:59:59.997Z",
+                    "Category": {
+                        "Code": "EducationInstance",
+                        "Name": "Klass"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 1
+                        }
+                    }
+                },
+                {
+                    "Id": 216,
+                    "Name": "Kommunikation",
+                    "Code": "REKO_16_7:1",
+                    "LifespanFrom": "2016-07-31T22:00:00Z",
+                    "LifespanUntil": "2016-12-12T22:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 215
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 218,
+                    "Name": "Accounting",
+                    "Code": "REKO_16_1:1",
+                    "LifespanFrom": "2016-07-31T22:00:00Z",
+                    "LifespanUntil": "2016-08-12T21:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 215
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 259,
+                    "Name": "Ekonomiassistent 2017",
+                    "Code": "EK17",
+                    "LifespanFrom": "2017-08-16T22:00:00Z",
+                    "LifespanUntil": "2019-06-15T21:59:59.997Z",
+                    "Category": {
+                        "Code": "EducationInstance",
+                        "Name": "Klass"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 1
+                        }
+                    }
+                },
+                {
+                    "Id": 260,
+                    "Name": "Systemunderhåll",
+                    "Code": "EK17_SYS",
+                    "LifespanFrom": "2018-07-08T22:00:00Z",
+                    "LifespanUntil": "2018-12-21T22:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 259
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 264,
+                    "Name": "Tandhygien",
+                    "Code": "EK15_THY",
+                    "LifespanFrom": "2016-11-30T23:00:00Z",
+                    "LifespanUntil": "2017-06-05T21:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 4
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 266,
+                    "Name": "Lärande i arbete, LIA 2",
+                    "Code": "EK16_LIA2",
+                    "LifespanFrom": "2017-09-12T22:00:00Z",
+                    "LifespanUntil": "2017-12-14T22:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 43
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 268,
+                    "Name": "Kalkylering",
+                    "Code": "EK15_KALK",
+                    "LifespanFrom": "2017-01-11T23:00:00Z",
+                    "LifespanUntil": "2017-06-01T21:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 4
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 271,
+                    "Name": "TESTMV",
+                    "Code": "EK15_TM",
+                    "LifespanFrom": "2016-12-31T23:00:00Z",
+                    "LifespanUntil": "2017-06-30T21:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 4
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 277,
+                    "Name": "Teknikkonsult 2015 Inriktning Elektronik",
+                    "Code": "TEK15:2",
+                    "LifespanFrom": "2015-08-16T22:00:00Z",
+                    "LifespanUntil": "2017-06-09T21:59:59.997Z",
+                    "Category": {
+                        "Code": "Specialization",
+                        "Name": "Inriktning"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 5
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 282,
+                    "Name": "Djurhållning och avel",
+                    "Code": "DLJ16_DHA",
+                    "LifespanFrom": "2017-09-06T22:00:00Z",
+                    "LifespanUntil": "2017-12-24T22:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 210
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 292,
+                    "Name": "Teknikkurs 1",
+                    "Code": "EK17_TEK1",
+                    "LifespanFrom": "2017-06-30T22:00:00Z",
+                    "LifespanUntil": "2018-06-30T21:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 259
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 294,
+                    "Name": "Tandhygien",
+                    "Code": "EK16_THY",
+                    "LifespanFrom": "2017-06-30T22:00:00Z",
+                    "LifespanUntil": "2018-06-30T21:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 43
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 311,
+                    "Name": "Specialist",
+                    "Code": "SPU17",
+                    "LifespanFrom": "2017-08-13T22:00:00Z",
+                    "LifespanUntil": "2019-06-14T21:59:59.997Z",
+                    "Category": {
+                        "Code": "EducationInstance",
+                        "Name": "Klass"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 1
+                        }
+                    }
+                },
+                {
+                    "Id": 312,
+                    "Name": "Demenssjukdomar",
+                    "Code": "SPU17_DS",
+                    "LifespanFrom": "2017-10-01T22:00:00Z",
+                    "LifespanUntil": "2017-11-10T22:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 311
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 314,
+                    "Name": "Psykisk ohälsa",
+                    "Code": "SPU17_PO",
+                    "LifespanFrom": "2018-01-07T23:00:00Z",
+                    "LifespanUntil": "2018-06-08T21:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 311
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 317,
+                    "Name": "Lärande i arbete, LIA 1",
+                    "Code": "EK17_LIA1",
+                    "LifespanFrom": "2021-10-08T22:00:00Z",
+                    "LifespanUntil": "2022-10-07T21:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 259
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 320,
+                    "Name": "Ekologisk odling",
+                    "Code": "DLJ16_EkO",
+                    "LifespanFrom": "2017-01-11T23:00:00Z",
+                    "LifespanUntil": "2017-12-01T22:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 210
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 325,
+                    "Name": "LIA - Höstbruk",
+                    "Code": "DLJ16_LIA-H",
+                    "LifespanFrom": "2017-06-30T22:00:00Z",
+                    "LifespanUntil": "2017-12-31T22:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 210
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 331,
+                    "Name": "Redovisning och beskattning",
+                    "Code": "DLJ16_RoB",
+                    "LifespanFrom": "2017-06-30T22:00:00Z",
+                    "LifespanUntil": "2017-12-31T22:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 210
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 338,
+                    "Name": "Djurskötare 2018",
+                    "Code": "DS18",
+                    "LifespanFrom": "2017-10-31T23:00:00Z",
+                    "LifespanUntil": "2019-12-05T22:59:59.997Z",
+                    "Category": {
+                        "Code": "EducationInstance",
+                        "Name": "Klass"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 1
+                        }
+                    }
+                },
+                {
+                    "Id": 339,
+                    "Name": "Foderhantering",
+                    "Code": "DS18_FODER",
+                    "LifespanFrom": "2018-01-09T23:00:00Z",
+                    "LifespanUntil": "2018-03-22T22:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 338
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 346,
+                    "Name": "LIA - Stallförman",
+                    "Code": "DLJ16_LIA-s",
+                    "LifespanFrom": "2017-01-16T23:00:00Z",
+                    "LifespanUntil": "2017-06-13T21:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 210
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 350,
+                    "Name": "Trädgårdsmästare 2018",
+                    "Code": "TM18",
+                    "LifespanFrom": "2018-08-11T22:00:00Z",
+                    "LifespanUntil": "2021-06-12T21:59:59.997Z",
+                    "Category": {
+                        "Code": "EducationInstance",
+                        "Name": "Klass"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 1
+                        }
+                    }
+                },
+                {
+                    "Id": 351,
+                    "Name": "Blomjord",
+                    "Code": "TM18_BJ",
+                    "LifespanFrom": "2018-11-17T23:00:00Z",
+                    "LifespanUntil": "2019-03-29T22:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 350
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 356,
+                    "Name": "LIA - Vårbruk",
+                    "Code": "DLJ16_LIA-V",
+                    "LifespanFrom": "2017-12-31T23:00:00Z",
+                    "LifespanUntil": "2018-06-14T21:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 210
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 358,
+                    "Name": "Lantbruksföretagande",
+                    "Code": "DLJ16_LBF",
+                    "LifespanFrom": "2017-12-31T23:00:00Z",
+                    "LifespanUntil": "2018-06-14T21:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 210
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                },
+                {
+                    "Id": 360,
+                    "Name": "Grenar, rot och topp",
+                    "Code": "SF18_Grot",
+                    "LifespanFrom": "2018-09-09T22:00:00Z",
+                    "LifespanUntil": "2018-12-31T22:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    }
+                },
+                {
+                    "Id": 362,
+                    "Name": "Grenar, rot och topp",
+                    "Code": "SF18_Grot_2",
+                    "LifespanFrom": "2018-06-30T22:00:00Z",
+                    "LifespanUntil": "2018-09-07T21:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    }
+                },
+                {
+                    "Id": 364,
+                    "Name": "Tandhygien del 1",
+                    "Code": "EK17_THY1",
+                    "LifespanFrom": "2018-06-30T22:00:00Z",
+                    "LifespanUntil": "2018-12-31T22:59:59.997Z",
+                    "Category": {
+                        "Code": "CourseInstance",
+                        "Name": "Kurs"
+                    },
+                    "ParentGroup": {
+                        "Group": {
+                            "Id": 259
+                        },
+                        "ParentGroup": {
+                            "Group": {
+                                "Id": 1
+                            }
+                        }
+                    }
+                }
+            ],
+            "GroupRoles": [
+                {
+                    "Id": 2,
+                    "Name": "Medlem"
+                },
+                {
+                    "Id": 7,
+                    "Name": "Medlem"
+                },
+                {
+                    "Id": 8,
+                    "Name": "Medlem"
+                },
+                {
+                    "Id": 10,
+                    "Name": "Personal"
+                },
+                {
+                    "Id": 21,
+                    "Name": "Kursansvarig"
+                },
+                {
+                    "Id": 25,
+                    "Name": "Personal"
+                },
+                {
+                    "Id": 26,
+                    "Name": "Utbildningsledare"
+                },
+                {
+                    "Id": 27,
+                    "Name": "Personal"
+                },
+                {
+                    "Id": 33,
+                    "Name": "Utbildningsledare"
+                },
+                {
+                    "Id": 39,
+                    "Name": "Klassadministratör"
+                },
+                {
+                    "Id": 40,
+                    "Name": "Kursadministratör"
+                }
+            ]
+        }
+    }
+}
