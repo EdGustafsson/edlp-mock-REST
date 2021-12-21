@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace learnpoint_mock_REST.Entities
+﻿namespace learnpoint_mock_REST.Entities
 {
     public class GroupRole
     {

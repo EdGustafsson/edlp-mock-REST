@@ -1,29 +1,20 @@
-﻿//using Microsoft.AspNetCore.Mvc;
-//using learnpoint_mock_REST.Entities;
-//using System.Threading.Tasks;
+﻿using Microsoft.AspNetCore.Mvc;
+using System.IO;
 
-//namespace learnpoint_mock_REST.Controllers
-//{
-//    [ApiController]
-//    [Route("api/groups")]
-//    public class GroupsApiResponsesController : ControllerBase
-//    {
-
-//        //private readonly DataContext _context;
-
-//        //public GroupsApiResponsesController(DataContext context)
-//        //{
-//        //    _context = context;
-//        //}
-
-//        [HttpGet]
-//        public async Task<ActionResult<GroupsApiResponse>> GetGroups()
-//        {
-          
-//        }
-
-
-
-
-//    }
-//}
+namespace learnpoint_mock_REST.Controllers
+{
+    [ApiController]
+    [Route("api/groups")]
+    public class GroupsApiResponsesController : ControllerBase
+    {
+        [HttpGet]
+        public string GetGroups()
+        {
+            using (StreamReader r = new StreamReader("Data/jsonGroups.json"))
+            {
+                string json = r.ReadToEnd();
+                return json;
+            }
+        }
+    }
+}
