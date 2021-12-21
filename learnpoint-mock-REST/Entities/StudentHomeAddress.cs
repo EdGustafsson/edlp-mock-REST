@@ -2,7 +2,6 @@
 {
     public class StudentHomeAddress
     {
-        public int Id { get; set; }
         public string CO { get; set; }
 
         public string Street { get; set; }

@@ -16,26 +16,7 @@ namespace learnpoint_mock_REST
     {
         public static async Task Main(string[] args)
         {
-            var host = CreateHostBuilder(args).Build();
-
-            using var scope = host.Services.CreateScope();
-            var services = scope.ServiceProvider;
-
-            try
-            {
-                var context = services.GetRequiredService<DataContext>();
-                await context.Database.MigrateAsync();
-                await LoadData.LoadStudents(context);
-                await LoadData.LoadGroups(context);
-                await LoadData.LoadStaffMembers(context);
-            }
-            catch (Exception ex)
-            {
-                var logger = services.GetRequiredService<ILogger<Program>>();
-                logger.LogError(ex, "Invalid LoadData migration");
-            }
-
-            await host.RunAsync();
+            CreateHostBuilder(args).Build().Run();
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
