@@ -4,6 +4,8 @@ using System.Threading.Tasks;
 using System.IO;
 using System.Text.Json;
 using System.Collections.Generic;
+using Newtonsoft.Json;
+using System.Json;
 
 namespace learnpoint_mock_REST.Controllers
 {
@@ -20,16 +22,27 @@ namespace learnpoint_mock_REST.Controllers
         //}
 
         [HttpGet]
-        public async Task<ActionResult<StudentsApiResponse>> GetGroups()
+        public string GetStudents()
         {
             //return await _context.StudentsApiResponses.FindAsync();
 
             //if (await _context.StudentsApiResponses.AnyAsync()) return;
 
-            var studentsData = await File.ReadAllTextAsync("Data/jsonStudents.json");
-            var studentsApiResponses = JsonSerializer.Deserialize<List<StudentsApiResponse>>(studentsData);
+            //return File.ReadAllTextAsync("Data/jsonStudents.json");
+            //var studentsApiResponses = JsonSerializer.Deserialize<List<StudentsApiResponse>>(studentsData)
 
-            return Json(model, JsonRequestBehavior.AllowGet);
+            //StreamReader r = new StreamReader("Data/jsonStudents.json");
+            //var a =  r.ReadToEnd();
+
+            //return studentsApiResponses;
+
+            //return Json(a);
+
+            using (StreamReader r = new StreamReader("Data/jsonStudents.json"))
+            {
+                string json = r.ReadToEnd();
+                return json;
+            }
         }
     }
 }
